@@ -1,0 +1,317 @@
+[
+  {
+    "date": "27/05",
+    "venue": "SANT JORDI CLUB",
+    "city": "Barcelona",
+    "country": "España",
+    "status": "Tickets",
+    "link": "https://www.livenation.es/show/1554651",
+    "region": "Europa"
+  },
+  {
+    "date": "28/05",
+    "venue": "Movistar Arena",
+    "city": "Madrid",
+    "country": "España",
+    "status": "Tickets",
+    "link": "https://www.livenation.es/show/1554653",
+    "region": "Europa"
+  },
+  {
+    "date": "30/05",
+    "venue": "Spring Festival",
+    "city": "Alicante",
+    "country": "España",
+    "status": "Tickets",
+    "link": "http://link%20https//www.entradas.com/artist/springfestival/?_gl=1*1p5ifrv*_gcl_au*MTg1MzAyMjYxNS4xNzQ3MDc0ODY1&affiliate=S1R",
+    "region": "Europa"
+  },
+  {
+    "date": "25/06",
+    "venue": "RoundHouse",
+    "city": "Londres",
+    "country": "INGLATERRA",
+    "status": "Tickets",
+    "link": "http://www.myticket.co.uk/artists/ca7riel-y-paco-amoroso",
+    "region": "Europa"
+  },
+  {
+    "date": "27/06",
+    "venue": "Glastonbury",
+    "city": "Pilton",
+    "country": "INGLATERRA",
+    "status": "Tickets",
+    "link": "https://www.glastonburyfestivals.co.uk/info/#tickets",
+    "region": "Europa"
+  },
+  {
+    "date": "29/06",
+    "venue": "Couleur Cafe Fest",
+    "city": "Bruselas",
+    "country": "Bélgica",
+    "status": "Tickets",
+    "link": "https://shop.paylogic.com/9be5f4a1dd7b4d2eabe95c3905b005f7/tickets",
+    "region": "Europa"
+  },
+  {
+    "date": "02/07",
+    "venue": "ROSKILDE FESTIVAL",
+    "city": "Roskilde",
+    "country": "Dinamarca",
+    "status": "Tickets",
+    "link": "https://www.roskilde-festival.dk/billetter",
+    "region": "Europa"
+  },
+  {
+    "date": "04/07",
+    "venue": "VIDA FESTIVAL",
+    "city": "Barcelona",
+    "country": "España",
+    "status": "Tickets",
+    "link": "https://www.taquilla.com/entradas/vida-festival?utm_medium=cpc&utm_source=google&utm_campaign=21496142369&auto-campaign=1&t10id=9021496142369&gad_source=1&gclid=CjwKCAiA74G9BhAEEiwA8kNfpXtux6pVIEEnCc0PYIxG7SUZYCYGj6qrZyMjHoypbmBasT4VeBgRDRoCGn4QAvD_BwE",
+    "region": "Europa"
+  },
+  {
+    "date": "05/07",
+    "venue": "GRANCA LIVE FEST",
+    "city": "Canarias",
+    "country": "España",
+    "status": "Tickets",
+    "link": "https://gclivefest.es/es-es/entradas",
+    "region": "Europa"
+  },
+  {
+    "date": "09/07",
+    "venue": "CÓRDOBA LIVE",
+    "city": "Córdoba",
+    "country": "España",
+    "status": "Tickets",
+    "link": "https://www.elcorteingles.es/entradas/conciertos/entradas-ca7riel-y-paco-amoroso-djs-invitados-cordoba/",
+    "region": "Europa"
+  },
+  {
+    "date": "10/07",
+    "venue": "BBK Live",
+    "city": "Bilbao",
+    "country": "España",
+    "status": "Tickets",
+    "link": "https://bilbaobbklive.com/tickets/",
+    "region": "Europa"
+  },
+  {
+    "date": "13/07",
+    "venue": "Lollapalooza Berlín",
+    "city": "Berlín",
+    "country": "Alemania",
+    "status": "Tickets",
+    "link": "https://www.lollapaloozade.com/tickets",
+    "region": "Europa"
+  },
+  {
+    "date": "17/07",
+    "venue": "FIB Festival",
+    "city": "Benicassim",
+    "country": "España",
+    "status": "Tickets",
+    "link": "https://fiberfib.com/abonos/",
+    "region": "Europa"
+  },
+  {
+    "date": "18/07",
+    "venue": "Montreux Jazz Festival",
+    "city": "Montreux",
+    "country": "Suiza",
+    "status": "Tickets",
+    "link": "https://www.montreuxjazzfestival.com/en/programme/",
+    "region": "Europa"
+  },
+  {
+    "date": "19/07",
+    "venue": "GURTENFESTIVAL",
+    "city": "Bern",
+    "country": "Suiza",
+    "status": "Tickets",
+    "link": "https://ticketing.gurtenfestival.ch/access/shop/2025/ticket-list",
+    "region": "Europa"
+  },
+  {
+    "date": "20/07",
+    "venue": "LOLLAPALOOZA PARIS",
+    "city": "París",
+    "country": "Francia",
+    "status": "Tickets",
+    "link": "https://www.lollaparis.com/en/tickets",
+    "region": "Europa"
+  },
+  {
+    "date": "26/07",
+    "venue": "FUJI ROCK",
+    "city": "Yuzawa, NIIGATA",
+    "country": "Japón",
+    "status": "Tickets",
+    "link": "https://fujirockfestival.com/ticket/playguide",
+    "region": "Otra"
+  },
+  {
+    "date": "30/07",
+    "venue": "Brooklyn Paramount",
+    "city": "Nueva York",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://www.ticketmaster.com/event/00006176D05E59BB",
+    "region": "Norte América"
+  },
+  {
+    "date": "02/08",
+    "venue": "Lollapalooza",
+    "city": "Chicago",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://www.lollapalooza.com/tickets",
+    "region": "Norte América"
+  },
+  {
+    "date": "05/08",
+    "venue": "THE NOVO",
+    "city": "LOG ANGELES",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://www.axs.com/events/966152/ca7riel-paco-amoroso-2nd-show-added-tickets",
+    "region": "Norte América"
+  },
+  {
+    "date": "06/08",
+    "venue": "The Novo",
+    "city": "Los AngEles",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://www.axs.com/events/947025/ca7riel-paco-amoroso-tickets",
+    "region": "Norte América"
+  },
+  {
+    "date": "08/08",
+    "venue": "White Oak Music Hall (Lawn)",
+    "city": "Houston",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://www.ticketmaster.com/ca7riel-paco-amoroso-houston-texas-05-05-2025/event/3A006234C9392D85",
+    "region": "Norte América"
+  },
+  {
+    "date": "10/08",
+    "venue": "Outside Lands",
+    "city": "San Francisco",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://sfoutsidelands.com/tickets/",
+    "region": "Norte América"
+  },
+  {
+    "date": "15/08",
+    "venue": "Palacio de los Deportes",
+    "city": "CDMX",
+    "country": "México",
+    "status": "Tickets",
+    "link": "https://www.ticketmaster.com.mx/event/14006298A459154B",
+    "region": "Norte América"
+  },
+  {
+    "date": "05/09",
+    "venue": "Arena Park Samborondon",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "status": "Tickets",
+    "link": "http://www.feelthetickets.com/ca7rielypacoamorosogye",
+    "region": "Sudamérica"
+  },
+  {
+    "date": "06/09",
+    "venue": "Parque Bicentenario",
+    "city": "Quito",
+    "country": "Ecuador",
+    "status": "Tickets",
+    "link": "http://www.feelthetickets.com/ca7rielypacoamorosouio",
+    "region": "Sudamérica"
+  },
+  {
+    "date": "10/09",
+    "venue": "Movistar Arena",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "status": "Tickets",
+    "link": "https://www.tuboleta.com/es/eventos/ca7riel-y-paco-amoroso-papota-tour-bogota",
+    "region": "Sudamérica"
+  },
+  {
+    "date": "12/09",
+    "venue": "Costa 21",
+    "city": "Lima",
+    "country": "Peru",
+    "status": "Tickets",
+    "link": "https://www.teleticket.com.pe/ca7riel-y-paco-amoroso-2025",
+    "region": "Sudamérica"
+  },
+  {
+    "date": "14/09",
+    "venue": "Movistar Arena",
+    "city": "Santiago",
+    "country": "Chile",
+    "status": "Tickets",
+    "link": "http://puntoticket.com/ca7riel-y-paco-amoroso",
+    "region": "Sudamérica"
+  },
+  {
+    "date": "17/09",
+    "venue": "Audio",
+    "city": "São Paulo",
+    "country": "Brasil",
+    "status": "Tickets",
+    "link": "http://www.eventim.com.br/ca7riel-pacoamoroso",
+    "region": "Sudamérica"
+  },
+  {
+    "date": "18/09",
+    "venue": "Circo Voador",
+    "city": "Rio de Janeiro",
+    "country": "BRASIL",
+    "status": "Tickets",
+    "link": "http://www.eventim.com.br/ca7riel-pacoamoroso",
+    "region": "Otra"
+  },
+  {
+    "date": "25/09",
+    "venue": "Antel Arena",
+    "city": "Montevideo",
+    "country": "URUGUAY",
+    "status": "Tickets",
+    "link": "https://www.antelarena.com.uy/events/detail/ca7riel-y-paco-amoroso",
+    "region": "Otra"
+  },
+  {
+    "date": "12/10",
+    "venue": "Austin City Limits",
+    "city": "Austin",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://www.aclfestival.com/tickets",
+    "region": "Norte América"
+  },
+  {
+    "date": "15/10",
+    "venue": "Walter WhereHouse",
+    "city": "PHOENIX",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://www.seetickets.us/event/ca7riel-and-paco-amoroso-at-walter-wherehouse/637783",
+    "region": "Norte América"
+  },
+  {
+    "date": "17-18/10",
+    "venue": "III Points Music Festival",
+    "city": "Miami",
+    "country": "USA",
+    "status": "Tickets",
+    "link": "https://www.iiipoints.com/tickets/#",
+    "region": "Norte América"
+  }
+]
