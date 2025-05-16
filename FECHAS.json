@@ -4,7 +4,7 @@
     "venue": "SANT JORDI CLUB",
     "city": "Barcelona",
     "country": "España",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "https://www.livenation.es/show/1554651",
     "region": "Europa"
   },
@@ -31,7 +31,7 @@
     "venue": "RoundHouse",
     "city": "Londres",
     "country": "INGLATERRA",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "http://www.myticket.co.uk/artists/ca7riel-y-paco-amoroso",
     "region": "Europa"
   },
@@ -40,7 +40,7 @@
     "venue": "Glastonbury",
     "city": "Pilton",
     "country": "INGLATERRA",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "https://www.glastonburyfestivals.co.uk/info/#tickets",
     "region": "Europa"
   },
@@ -157,7 +157,7 @@
     "venue": "Brooklyn Paramount",
     "city": "Nueva York",
     "country": "USA",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "https://www.ticketmaster.com/event/00006176D05E59BB",
     "region": "Norte América"
   },
@@ -166,16 +166,16 @@
     "venue": "Lollapalooza",
     "city": "Chicago",
     "country": "USA",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "https://www.lollapalooza.com/tickets",
     "region": "Norte América"
   },
   {
     "date": "05/08",
-    "venue": "THE NOVO",
-    "city": "LOG ANGELES",
+    "venue": "THE NOVO",
+    "city": "LOG ANGELES",
     "country": "USA",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "https://www.axs.com/events/966152/ca7riel-paco-amoroso-2nd-show-added-tickets",
     "region": "Norte América"
   },
@@ -184,7 +184,7 @@
     "venue": "The Novo",
     "city": "Los AngEles",
     "country": "USA",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "https://www.axs.com/events/947025/ca7riel-paco-amoroso-tickets",
     "region": "Norte América"
   },
@@ -211,7 +211,7 @@
     "venue": "Palacio de los Deportes",
     "city": "CDMX",
     "country": "México",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "https://www.ticketmaster.com.mx/event/14006298A459154B",
     "region": "Norte América"
   },
@@ -256,7 +256,7 @@
     "venue": "Movistar Arena",
     "city": "Santiago",
     "country": "Chile",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "http://puntoticket.com/ca7riel-y-paco-amoroso",
     "region": "Sudamérica"
   },
@@ -265,7 +265,7 @@
     "venue": "Audio",
     "city": "São Paulo",
     "country": "Brasil",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "http://www.eventim.com.br/ca7riel-pacoamoroso",
     "region": "Sudamérica"
   },
@@ -276,16 +276,16 @@
     "country": "BRASIL",
     "status": "Tickets",
     "link": "http://www.eventim.com.br/ca7riel-pacoamoroso",
-    "region": "Otra"
+    "region": "Sudamérica"
   },
   {
     "date": "25/09",
     "venue": "Antel Arena",
     "city": "Montevideo",
     "country": "URUGUAY",
-    "status": "Tickets",
+    "status": "Pronto",
     "link": "https://www.antelarena.com.uy/events/detail/ca7riel-y-paco-amoroso",
-    "region": "Otra"
+    "region": "Sudamérica"
   },
   {
     "date": "12/10",
@@ -301,7 +301,7 @@
     "venue": "Walter WhereHouse",
     "city": "PHOENIX",
     "country": "USA",
-    "status": "Tickets",
+    "status": "SoldOut",
     "link": "https://www.seetickets.us/event/ca7riel-and-paco-amoroso-at-walter-wherehouse/637783",
     "region": "Norte América"
   },
